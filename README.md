@@ -1,1 +1,2 @@
-# Redis-Trabalho-de-program-o-pratico
+# Redis-Trabalho-de-Programa-o-Pr-tico
+Trabalho de faculdade usando o Redis
